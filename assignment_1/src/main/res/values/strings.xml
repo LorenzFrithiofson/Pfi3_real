@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Assignment_1</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string-array name="quotes">
+        <item>HeyHey.</item>
+        <item>JumpJump.</item>
+        <item>Waswas.</item>
+    </string-array>
+    <string name="name" translatable="false">Real quotes!</string>
+    <string name="button" translatable="false">Next quote</string>
+    <string name="title" translatable="false">Real quotes</string>
+</resources>
